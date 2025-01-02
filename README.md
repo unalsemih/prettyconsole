@@ -34,6 +34,9 @@ func main() {
 }
 ```
 
+![image](https://github.com/user-attachments/assets/b4603ea9-561c-4b28-8aad-239fbc3d15d1)
+
+
 ## Licence
 
 The MIT License (MIT) - see [`LICENSE`](https://github.com/unalsemih/prettyconsole/blob/main/LICENSE) for more details
