@@ -25,7 +25,7 @@ import (
 )
 
 func main() {
-	logger := prettyconsole.NewLogger()
+	logger := prettyconsole.NewLogger(map[string]bool{})
 
 	logger.Success("This is a success message.")
 	logger.Info("This is an info message.")
